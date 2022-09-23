@@ -5,6 +5,17 @@
     "author": "vex",
     "cover": "https://i.imgur.com/1Q7qjjM.png",
     "chapters": {
+        "137": {
+            "title": "A Faster Way to Her Heart.",
+            "volume": "1",
+            "last_updated": "1663914333",
+            "groups": {
+                "vex": [
+                    "https://i.imgur.com/2C4epNC.jpg",
+                    "https://i.imgur.com/C9R5WuY.jpg"
+                ]
+            }
+        },
         "254": {
             "title": "Miko Iino wants to set the record straight.",
             "volume": "1",
@@ -138,6 +149,33 @@
                     "https://i.imgur.com/pYgL9e9.jpg",
                     "https://i.imgur.com/UK9S8Um.jpg",
                     "https://i.imgur.com/ibR8Hg5.jpg"
+                ]
+            }
+        },
+        "276": {
+            "title": "Ai Hayasaka Doesn't Want to Wake Up.",
+            "volume": "1",
+            "last_updated": "1663914333",
+            "groups": {
+                "vex": [
+                    "https://i.imgur.com/rMAcp8c.jpg",
+                    "https://i.imgur.com/X33deG5.jpg",
+                    "https://i.imgur.com/VkTcKnd.jpg",
+                    "https://i.imgur.com/ejEufYA.jpg",
+                    "https://i.imgur.com/3trVzDz.jpg",
+                    "https://i.imgur.com/Jqyj314.jpg",
+                    "https://i.imgur.com/e7Gtm7W.jpg",
+                    "https://i.imgur.com/VBZoTdE.jpg",
+                    "https://i.imgur.com/fj5FZMH.jpg",
+                    "https://i.imgur.com/2G8tkTw.jpg",
+                    "https://i.imgur.com/Cke9GTm.jpg",
+                    "https://i.imgur.com/pT3pQCi.jpg",
+                    "https://i.imgur.com/piSLjrs.jpg",
+                    "https://i.imgur.com/kghQRFO.jpg",
+                    "https://i.imgur.com/XvV8uyl.jpg",
+                    "https://i.imgur.com/DSTELxo.jpg",
+                    "https://i.imgur.com/DF25fpQ.jpg",
+                    "https://i.imgur.com/V4W2PY9.jpg"
                 ]
             }
         }
