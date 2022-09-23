@@ -174,7 +174,7 @@
                     "https://i.imgur.com/kghQRFO.jpg",
                     "https://i.imgur.com/XvV8uyl.jpg",
                     "https://i.imgur.com/DSTELxo.jpg",
-                    "https://i.imgur.com/DF25fpQ.jpg",
+                    "https://i.imgur.com/BG67Dw5.jpg",
                     "https://i.imgur.com/V4W2PY9.jpg"
                 ]
             }
