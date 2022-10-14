@@ -182,11 +182,11 @@
         "278": {
             "title": "Miko Iino and Yuu Ishigami's 69-th Student Council.",
             "volume": "1",
-            "last_updated": "1665728641",
+            "last_updated": "1665730095",
             "groups": {
                 "vex": [
                     "https://i.imgur.com/PHQxOnH.png",
-                    "https://i.imgur.com/GUFhkRn.png",
+                    "https://i.imgur.com/aYBvV4L.png",
                     "https://i.imgur.com/WEH10xU.png",
                     "https://i.imgur.com/XMucqjO.png",
                     "https://i.imgur.com/qABE6UF.png",
