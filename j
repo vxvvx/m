@@ -178,6 +178,34 @@
                     "https://i.imgur.com/V4W2PY9.jpg"
                 ]
             }
+        },
+        "278": {
+            "title": "Miko Iino and Yuu Ishigami's 69-th Student Council.",
+            "volume": "1",
+            "last_updated": "1665728641",
+            "groups": {
+                "vex": [
+                    "https://i.imgur.com/PHQxOnH.png",
+                    "https://i.imgur.com/GUFhkRn.png",
+                    "https://i.imgur.com/WEH10xU.png",
+                    "https://i.imgur.com/XMucqjO.png",
+                    "https://i.imgur.com/qABE6UF.png",
+                    "https://i.imgur.com/tml4nvD.png",
+                    "https://i.imgur.com/BJ5zZym.png",
+                    "https://i.imgur.com/MWSN8qd.png",
+                    "https://i.imgur.com/m78Sbsk.png",
+                    "https://i.imgur.com/1dsMhAB.png",
+                    "https://i.imgur.com/RqkqAj1.png",
+                    "https://i.imgur.com/lwWGwOT.png",
+                    "https://i.imgur.com/42yjjVO.png",
+                    "https://i.imgur.com/Zo60REy.png",
+                    "https://i.imgur.com/1acDgqe.png",
+                    "https://i.imgur.com/Fb9jDXw.png",
+                    "https://i.imgur.com/uGpMCbG.png",
+                    "https://i.imgur.com/tkm45qF.png",
+                    "https://i.imgur.com/7MbU9Um.png"
+                ]
+            }
         }
     }
 }
